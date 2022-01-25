@@ -8,7 +8,7 @@
 - Atualmente estou aprendendo JavaScrip e o Framework React Native através de cursos e bootcamps...
 - Estou em busca de uma nova recolocação profissional no mercado de desenvolvimento de software e apto a novas mudanças e desafios propostos.
 - 🌱 
-- 💞️ Desenvolvedor Front-End, Back-End, FullStack
+- 💞️ Desenvolvedor Front-End | Back-End | FullStack
 - 📫 
 
 <!---
