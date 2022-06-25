@@ -25,5 +25,8 @@
   </a>
   <a href="https://www.linkedin.com/in/carlos-roberto-jr10/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>  
+  </a>
+  <a href="https://www.youtube.com/channel/UCFpvPnBvUV-ckEijMgRIdwQ/featured">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
 </p>
