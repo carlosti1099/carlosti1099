@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Carlos Roberto
 ### 🎓 Graduado: Engenharia da Computação
-### 👨‍💻 Técnico de Suporte em TI
+### 👨‍💻 Analista de Suporte em TI
 ### </> Estudando Desenvolvimento Front-End | Back-End | FullStack
   - 📫
 
